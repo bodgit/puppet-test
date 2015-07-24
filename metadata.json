@@ -1,0 +1,29 @@
+{
+  "name": "bodgit-test",
+  "version": "1.0.0",
+  "author": "bodgit",
+  "summary": "Puppet Module for testing",
+  "license": "Apache-2.0",
+  "source": "https://github.com/bodgit/puppet-test",
+  "project_page": "https://github.com/bodgit/puppet-test",
+  "issues_url": "https://github.com/bodgit/puppet-test/issues",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": "3.x"
+    }
+  ],
+  "tags": [
+    "test"
+  ],
+  "dependencies": []
+}
